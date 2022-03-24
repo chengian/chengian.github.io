@@ -1,0 +1,14 @@
+body {
+    color: rgb(195,224,231) ;
+    background-color: rgb(20,23,34) ;
+}
+a:link {
+    color: rgb(195,224,231);
+    text-decoration:none;
+}
+a:visited {
+    color: rgb(195,224,231);
+}
+ul {
+    list-style:none ;
+}
